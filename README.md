@@ -1,2 +1,2 @@
 # Actividad
-xd
+Actividad adopta un peludo 
