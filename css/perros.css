@@ -1,5 +1,5 @@
 html{
-    background-color: rgb(194, 178, 197);
+    background-color: rgb(240, 222, 163);
 }
 
 .titulo{
@@ -15,4 +15,10 @@ html{
 }
 #index{
     font-size: 24px;
+}
+#parrafos{
+    text-align: center;
+}
+footer{
+    text-align: center;
 }
