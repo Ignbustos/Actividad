@@ -13,11 +13,14 @@ html{
     font-size: 24px;
     font-weight: bold;
 }
-#index{
+.subMenu{
     font-size: 24px;
-}
-#parrafos{
     text-align: center;
+}
+#subtitulo{
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
 }
 footer{
     text-align: center;
