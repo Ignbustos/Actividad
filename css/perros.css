@@ -13,9 +13,11 @@ html{
     font-size: 24px;
     font-weight: bold;
 }
-.subMenu{
+.nav{
     font-size: 24px;
-    text-align: center;
+    text-decoration: none;
+    align-content: center;
+
 }
 #subtitulo{
     text-align: center;
@@ -24,4 +26,13 @@ html{
 }
 footer{
     text-align: center;
+}
+.perritos{
+    margin-left: auto;
+    text-align: right;
+    font-size: 24px;
+    text-decoration: none;
+}
+#perrito{
+    text-decoration: none;
 }
