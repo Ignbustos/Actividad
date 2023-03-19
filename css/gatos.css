@@ -1,11 +1,7 @@
 html{
     background-color: rgb(240, 222, 163);
 }
-#xd123{
-    text-align: center;
-    font-size: 30px;
 
-}
 #subtitulo{
     text-align: center;
     font-size: 24px;
@@ -21,9 +17,7 @@ html{
     margin-left: 550px;
     margin-right: 1000px;
 }
-#imagenficha{
-    float:left;
-}
+
 .gatitos{
     margin-left: auto;
     text-align: right;
@@ -32,7 +26,6 @@ html{
     float: right;
     margin-right: 5%;
 }
-#xd{
-    text-align: left;
-    margin-left: 300px;
+.footer{
+    text-align: center;
 }
