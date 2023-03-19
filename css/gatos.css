@@ -21,12 +21,13 @@ html{
 .footer{
     text-align: center;
 }
-.tablaGatos{
+#tablaGatos{
     text-decoration: none;
-    font-size: 20px;
+    font-size: 24px;
 }
 .subMenu{
     font-size: 24px;
     text-align: center;
     word-spacing: 100px;
+    font-weight: bold;
 }
