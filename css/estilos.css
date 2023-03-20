@@ -29,7 +29,7 @@ footer{
     padding: 10px;
     display: inline-block;
     border-radius: 5px;
-    animation: blinkingBackground 0.1s infinite;
+    animation: blinkingBackground 0.09s infinite;
 }
 @keyframes blinkingBackground{
     0%		{ background-color: #10c018;}
