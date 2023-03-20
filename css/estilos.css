@@ -24,3 +24,17 @@ footer{
     font-size: 24px;
     text-decoration: none;
 }
+.blink-bg{
+    color: #fff;
+    padding: 10px;
+    display: inline-block;
+    border-radius: 5px;
+    animation: blinkingBackground 0.1s infinite;
+}
+@keyframes blinkingBackground{
+    0%		{ background-color: #10c018;}
+    25%		{ background-color: #1056c0;}
+    50%		{ background-color: #ef0a1a;}
+    75%		{ background-color: #254878;}
+    100%	{ background-color: #04a1d5;}
+}
