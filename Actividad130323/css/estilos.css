@@ -1,0 +1,26 @@
+html{
+    background-color: rgb(240, 222, 163);
+}
+h1{
+    text-align: center;
+}
+#descripcion{
+    text-align: center;
+}
+.titulo{
+    font-size: 30px;
+}
+#personal{
+    font-size: 24px;
+    font-weight: bold;
+}
+.subtitulo{
+    font-size: 24px;
+}
+footer{
+    text-align: center;
+}
+.subMenu{
+    font-size: 24px;
+    text-decoration: none;
+}
